@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.4.
 
-## check only 4 files 
+## Check only 4 files 
 1. package.json for version "angularx-social-login": "3.5.4"
 2. app.module.ts 
 3. app.component.ts
