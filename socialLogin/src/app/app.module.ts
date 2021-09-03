@@ -21,10 +21,12 @@ import { AppComponent } from "./app.component";
       providers: [
         {
           id: GoogleLoginProvider.PROVIDER_ID,
+          // client ID -  https://console.cloud.google.com/apis/credentials?pli=1&project=enhanced-rite-216710&folder=&organizationId=
           provider: new GoogleLoginProvider( '35284573000-9pi13jhise7jca9m93jchbvua56b9kqe.apps.googleusercontent.com')
         },
         {
           id: FacebookLoginProvider.PROVIDER_ID,
+          // APP ID - https://developers.facebook.com/apps/?show_reminder=true
           provider: new FacebookLoginProvider('1786014478252000')
         }
       ]
