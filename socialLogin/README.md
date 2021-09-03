@@ -8,6 +8,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 3. app.component.ts
 4. app.component.html
 5. For Get APPID -> https://docs.google.com/document/d/1DwOxeqo0R3CBCt9chyH3tX0CpdX44yHonlK7fbTY9Uo/edit
+6. For code change branch
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
