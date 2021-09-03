@@ -7,7 +7,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 2. app.module.ts 
 3. app.component.ts
 4. app.component.html
-# Note: for app id follow link -> https://docs.google.com/document/d/1DwOxeqo0R3CBCt9chyH3tX0CpdX44yHonlK7fbTY9Uo/edit
+# Note: For app id follow link 
+https://docs.google.com/document/d/1DwOxeqo0R3CBCt9chyH3tX0CpdX44yHonlK7fbTY9Uo/edit
 
 
 ## Development server
